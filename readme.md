@@ -8,6 +8,11 @@ First ,download this source to your local.And then type this in your command lin
 npm i
 ```
 
+## Mainly modules
+---
+- Local development server
+- Packager(integrated the webpack)
+
 ## Community
 ---
 You can talk about the Cottage.js in our github discussion.
