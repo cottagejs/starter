@@ -9,7 +9,7 @@
     "s": "node server.js",
     "build":"webpack"
   },
-  "author": "hastersun",
+  "author": "CottageOrganization",
   "license": "MIT",
   "dependencies": {
     "webpack-dev-server": "^4.11.1"
